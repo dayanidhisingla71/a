@@ -1,0 +1,12 @@
+Study about Static blocks and push 1 example code on github.
+
+
+
+Create a Class Animal,Dog and Cat.You need to Override Speak Function of animal Class
+
+
+Overload Print function to accept Null arguments , one integer , one float
+
+
+Print length of longest increasing sub array.
+
